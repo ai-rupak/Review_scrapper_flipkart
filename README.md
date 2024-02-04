@@ -7,6 +7,12 @@ This project is a web scraper built using Python and Flask to extract product re
 - Scrapes product reviews from Flipkart.
 - Provides a Flask API to access the scraped data.
 
+## Demo screenshots
+<div align="center">
+   <img src="readme-images/Screenshot 2024-02-05 011100.png" />
+   <img src="readme-images/Screenshot 2024-02-05 011141.png" />
+</div>
+
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
