@@ -21,8 +21,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flipkart-reviews-scraper.git
-   cd flipkart-reviews-scraper
+   git clone https://github.com/ai-rupak/Review_scrapper_flipkart.git
 2. Install dependencies:
   pip install -r requirements.txt
 3.Run the Flask app:
