@@ -30,10 +30,10 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/ai-rupak/Review_scrapper_flipkart.git
 2. Install dependencies:
    
-  -pip install -r requirements.txt
+    -pip install -r requirements.txt
   
 3.Run the Flask app:
 
- -python app.py
+    -python app.py
  
 -The app will be accessible at http://127.0.0.1:5000/.
